@@ -10,6 +10,12 @@
         </semantic:task>
         <semantic:startEvent name="Start Event 22" id="ID-cce357fc-70ba-11e9-69f8-f48e38b53514">
         </semantic:startEvent>
+        <semantic:endEvent name="End Event EE" id="ID-cce357f6-70ba-11e9-69f8-f48e38b53512">
+            <semantic:extensionElements>
+                <i18n:translation target="@name" xml:lang="en">End Event</i18n:translation>
+                <i18n:translation target="@name" xml:lang="de">Ereignis Ende</i18n:translation>
+            </semantic:extensionElements>
+        </semantic:endEvent>
         <semantic:task name="Task 2" id="ID-cce357ff-70ba-11e9-69f8-f48e38b53512">
             <semantic:incoming>ID-cce35809-70ba-11e9-69f8-f48e38b53512</semantic:incoming>
             <semantic:outgoing>ID-cce35807-70ba-11e9-69f8-f48e38b53512</semantic:outgoing>
