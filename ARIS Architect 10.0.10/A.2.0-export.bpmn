@@ -6,6 +6,8 @@
         </semantic:startEvent>
         <semantic:startEvent name="Start Event 222" id="ID-cce35824-70ba-11e9-69f8-f48e38b53514">
         </semantic:startEvent>
+        <semantic:task name="Task 0" id="ID-cce35815-70ba-11e9-69f8-f48e38b53510">
+        </semantic:task>
         <semantic:task name="Task 1" id="ID-cce35815-70ba-11e9-69f8-f48e38b53512">
             <semantic:incoming>ID-272d2d08-70be-11e9-69f8-f48e38b53512</semantic:incoming>
             <semantic:outgoing>ID-272d2d10-70be-11e9-69f8-f48e38b53512</semantic:outgoing>
